@@ -28,6 +28,5 @@ void solve(){
 int main()
 {
     TuanVu;
-    
-	return 0;
+    return 0;
 }
